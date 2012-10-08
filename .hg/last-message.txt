@@ -1,0 +1,1 @@
+merge from closure-templates branch at closure-templates revision 27
